@@ -1,0 +1,23 @@
+{
+  "name": "electron-application",
+  "version": "1.0.0",
+  "description": "This is my application in electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaGames999/electronApplication.git"
+  },
+  "keywords": [],
+  "author": "AlphaGames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlphaGames999/electronApplication/issues"
+  },
+  "homepage": "https://github.com/AlphaGames999/electronApplication#readme",
+  "devDependencies": {
+    "electron": "^6.0.10"
+  }
+}
